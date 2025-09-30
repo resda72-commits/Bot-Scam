@@ -35,10 +35,10 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.fsm.context import FSMContext
 
 # --- Ваши токены и ID --- (оставлены без изменений)
-API_TOKEN = "7655638672:AAFOopE1OW8vdWsXD7vkWCT6ajwG5EteD8Y"
-CRYPTOBOT_TOKEN = "465711:AAarYlqovxpBZzKvON1MBg5Vx967hLO7AyW"
-ADMIN_IDS = [7550144201]
-PAYMENT_GROUP_ID = -1003167574208  # группа/канал для чеков и репортов
+API_TOKEN = "8456531907:AAGJ9r2YgApKF9NxagtN8Dd_P3QLpHRiz8c"
+CRYPTOBOT_TOKEN = "467152:AAkDbtPn11mAXdlxUzoxO22ErVrSBpwWwdM"
+ADMIN_IDS = [7048494685]
+PAYMENT_GROUP_ID = -1002970919697  # группа/канал для чеков и репортов
 
 # --- Логи ---
 logging.basicConfig(level=logging.INFO)
